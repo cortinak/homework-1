@@ -1,1 +1,1 @@
-# homework-1
+Homework 1 is completed within this repository.  All links have been corrected to work, HTML and CSS have been cleaned up and adjusted to meet HTML 5 semantic accessibility standards. 
